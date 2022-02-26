@@ -1,0 +1,7 @@
+C1	Panasonic			EEE-TKH681UAM
+C2	KEMET				T495X227K016ATE100
+C3	Vishay Vitramon			VJ0603Y104KXQCW1BC
+D1	Vishay Semiconductors		VS-50WQ03FNTR-M3
+L1
+R1,R2
+U1	TI National Semiconductor	LM2596S-5.0
