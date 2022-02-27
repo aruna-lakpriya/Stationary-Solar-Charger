@@ -1,7 +1,7 @@
 C1	Panasonic			EEE-TKH681UAM
 C2	KEMET				T495X227K016ATE100
-C3	Vishay Vitramon			VJ0603Y104KXQCW1BC
+C3	KEMET				C0805C104K8RAC7800
 D1	Vishay Semiconductors		VS-50WQ03FNTR-M3
-L1	Pulse Electronics Power		PE-54041S
-R1,R2	Meritek				CR20473J
+L1	Pulse Electronics Power		PE-54041SNL
+R1,R2	Vishay Dale			RCC080547K0FKEA
 U1	TI National Semiconductor	LM2596S-5.0
