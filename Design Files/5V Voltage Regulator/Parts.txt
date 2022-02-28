@@ -5,3 +5,5 @@ D1	Vishay Semiconductors		VS-50WQ03FNTR-M3
 L1	Pulse Electronics Power		PE-54041SNL
 R1,R2	Vishay Dale			RCC080547K0FKEA
 U1	TI National Semiconductor	LM2596S-5.0
+J1	Wurth Electronics Midcom	691709710302
+J2	Global Connector Technology	USB1035-GF-P-0-B-B
