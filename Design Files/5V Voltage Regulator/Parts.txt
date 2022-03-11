@@ -3,6 +3,8 @@ C2,C4,C5,C8,C9,C10,C11	Yageo				CC0805KRX7R9BB104
 C3			KEMET				T495X227K016ATE100
 C6,C7			ROQANG				RVT1C220M0405
 D1			Vishay Semiconductors		VS-50WQ03FNTR-M3
+J1			Wurth Electronics Midcom	691709710302
+J2			Global Connector Technology	USB1035-GF-P-0-B-B
 L1			Pulse Electronics Power		PE-54041SNL
 R1,R2			Vishay Dale			RCC080547K0FKEA
 R3,R4			Viking Tech			ARG05FTC1003
@@ -10,5 +12,3 @@ U1			TI National Semiconductor	LM2596S-5.0
 U2			Texas Instruments		TPS2513DBVR
 U3			Texas Instruments		TPS2066DR
 U4,U5			STMicroelectronics		USBLC6-2SC6
-J1			Wurth Electronics Midcom	691709710302
-J2			Global Connector Technology	USB1035-GF-P-0-B-B
