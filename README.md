@@ -1,2 +1,2 @@
 # Stationary-Solar-Charger
-EN3023-EDR Group Project
+Semester 5 EN3023-Electronic Design Realization Group Project.
